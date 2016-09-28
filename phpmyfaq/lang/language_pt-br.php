@@ -819,3 +819,6 @@ $LANG_CONF['records.defaultAttachmentEncKey'] = array(0 => "input", 1 => 'Defaul
 $LANG_CONF['security.useSslForLogins'] = array(0 => 'checkbox', 1 => "Only allow logins over secure connection? (default: disabled)");
 $PMF_LANG['plmsgUserOnline']['0'] = '%d usuário online';
 $PMF_LANG['plmsgUserOnline']['1'] = '';
+$PMF_LANG['msgSeeFAQinFrontend'] = 'Veja FAQ no Frontend';
+$PMF_LANG['msgRelatedTags'] = 'Adicionar Pesquisa Palavra';
+$PMF_LANG['msgPopularTags'] = 'Pesquisar Palavras populares';
